@@ -1,0 +1,22 @@
+File,Speaker,Gender,Language/Dialect,Topic,Duration,Environment,Quality,Start,End
+S09_T01_001.wav,S09,M,Sunda (Non native speaker),Hobi,58.99,Indoor,Good,0.66,57.77
+S09_T01_002.wav,S09,M,Sunda (Non native speaker),Hobi,58.62,Indoor,Good,0.79,56.89
+S09_T01_003.wav,S09,M,Sunda (Non native speaker),Hobi,53.27,Indoor,Good,0.49,52.27
+S09_T01_004.wav,S09,M,Sunda (Non native speaker),Hobi,56.19,Indoor,Good,0.02,55.48
+S09_T02_001.wav,S09,M,Sunda (Non native speaker),Makanan,50.73,Indoor,Good,1.17,49.52
+S09_T02_002.wav,S09,M,Sunda (Non native speaker),Makanan,52.12,Indoor,Good,0.36,51.43
+S09_T02_003.wav,S09,M,Sunda (Non native speaker),Makanan,60.29,Indoor,Good,0.71,59.12
+S09_T02_004.wav,S09,M,Sunda (Non native speaker),Makanan,60.12,Indoor,Good,0.49,59.40
+S09_T03_001.wav,S09,M,Sunda (Non native speaker),Jalan-jalan,59.09,Indoor,Good,0.99,58.57
+S09_T03_002.wav,S09,M,Sunda (Non native speaker),Jalan-jalan,53.03,Indoor,Good,0.91,52.39
+S09_T03_003.wav,S09,M,Sunda (Non native speaker),Jalan-jalan,51.26,Indoor,Good,1.09,50.41
+S09_T03_004.wav,S09,M,Sunda (Non native speaker),Jalan-jalan,66.77,Indoor,Good,0.67,65.80
+S10_T01_001.wav,S10,F,Sunda (Native Speaker),Hobi,92.92,Indoor,Good,0.47,92.09
+S10_T01_002.wav,S10,F,Sunda (Native Speaker),Hobi,87.74,Indoor,Good,0.45,86.11
+S10_T01_003.wav,S10,F,Sunda (Native Speaker),Hobi,68.76,Indoor,Good,1.01,67.70
+S10_T02_001.wav,S10,F,Sunda (Native Speaker),Makanan,63.20,Indoor,Good,0.57,61.34
+S10_T02_002.wav,S10,F,Sunda (Native Speaker),Makanan,86.34,Indoor,Good,0.47,85.77
+S10_T02_003.wav,S10,F,Sunda (Native Speaker),Makanan,60.20,Indoor,Good,0.67,58.86
+S10_T03_001.wav,S10,F,Sunda (Native Speaker),Jalan-jalan,72.40,Indoor,Good,0.76,72.06
+S10_T03_002.wav,S10,F,Sunda (Native Speaker),Jalan-jalan,75.56,Indoor,Good,0.56,75.30
+S10_T03_003.wav,S10,F,Sunda (Native Speaker),Jalan-jalan,64.14,Indoor,Good,0.85,63.72
