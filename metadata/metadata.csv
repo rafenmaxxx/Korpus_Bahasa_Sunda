@@ -1,74 +1,107 @@
-File,Speaker,Gender,Language/Dialect,Topic,Duration,Environment,Quality
-S07_T01_001.wav,S07,M,Sunda,Hobby,31.40,Indoor,Good
-S07_T01_002.wav,S07,M,Sunda,Hobby,31.68,Indoor,Good
-S07_T01_003.wav,S07,M,Sunda,Hobby,26.43,Indoor,Good
-S07_T01_004.wav,S07,M,Sunda,Hobby,31.42,Indoor,Good
-S07_T01_005.wav,S07,M,Sunda,Hobby,31.32,Indoor,Good
-S07_T01_006.wav,S07,M,Sunda,Hobby,31.42,Indoor,Good
-S07_T01_007.wav,S07,M,Sunda,Hobby,35.52,Indoor,Good
-S07_T01_008.wav,S07,M,Sunda,Hobby,30.06,Indoor,Good
-S07_T01_009.wav,S07,M,Sunda,Hobby,26.90,Indoor,Good
-S07_T01_010.wav,S07,M,Sunda,Hobby,25.73,Indoor,Good
-S07_T01_011.wav,S07,M,Sunda,Hobby,24.83,Indoor,Good
-S07_T01_012.wav,S07,M,Sunda,Hobby,21.44,Indoor,Good
-S07_T02_001.wav,S07,M,Sunda,Food,29.59,Indoor,Good
-S07_T02_002.wav,S07,M,Sunda,Food,31.79,Indoor,Good
-S07_T02_003.wav,S07,M,Sunda,Food,26.43,Indoor,Good
-S07_T02_004.wav,S07,M,Sunda,Food,25.34,Indoor,Good
-S07_T02_005.wav,S07,M,Sunda,Food,32.13,Indoor,Good
-S07_T02_006.wav,S07,M,Sunda,Food,24.75,Indoor,Good
-S07_T02_007.wav,S07,M,Sunda,Food,21.55,Indoor,Good
-S07_T02_008.wav,S07,M,Sunda,Food,25.66,Indoor,Good
-S07_T02_009.wav,S07,M,Sunda,Food,26.22,Indoor,Good
-S07_T02_010.wav,S07,M,Sunda,Food,27.61,Indoor,Good
-S07_T02_011.wav,S07,M,Sunda,Food,24.32,Indoor,Good
-S07_T02_012.wav,S07,M,Sunda,Food,27.31,Indoor,Good
-S07_T03_001.wav,S07,M,Sunda,Travel,24.98,Indoor,Good
-S07_T03_002.wav,S07,M,Sunda,Travel,27.86,Indoor,Good
-S07_T03_003.wav,S07,M,Sunda,Travel,22.23,Indoor,Good
-S07_T03_004.wav,S07,M,Sunda,Travel,24.43,Indoor,Good
-S07_T03_005.wav,S07,M,Sunda,Travel,20.05,Indoor,Good
-S07_T03_006.wav,S07,M,Sunda,Travel,19.65,Indoor,Good
-S07_T03_007.wav,S07,M,Sunda,Travel,22.74,Indoor,Good
-S07_T03_008.wav,S07,M,Sunda,Travel,18.84,Indoor,Good
-S07_T03_009.wav,S07,M,Sunda,Travel,19.63,Indoor,Good
-S07_T03_010.wav,S07,M,Sunda,Travel,17.37,Indoor,Good
-S07_T03_011.wav,S07,M,Sunda,Travel,24.81,Indoor,Good
-S07_T03_012.wav,S07,M,Sunda,Travel,26.50,Indoor,Good
-S07_T03_013.wav,S07,M,Sunda,Travel,23.89,Indoor,Good
-S08_T01_001.wav,S08,F,Sunda,Hobby,38.08,Indoor,Good
-S08_T01_002.wav,S08,F,Sunda,Hobby,40.87,Indoor,Good
-S08_T01_003.wav,S08,F,Sunda,Hobby,43.47,Indoor,Good
-S08_T01_004.wav,S08,F,Sunda,Hobby,47.37,Indoor,Good
-S08_T01_005.wav,S08,F,Sunda,Hobby,49.41,Indoor,Good
-S08_T02_001.wav,S08,F,Sunda,Food,53.68,Indoor,Good
-S08_T02_002.wav,S08,F,Sunda,Food,41.24,Indoor,Good
-S08_T02_003.wav,S08,F,Sunda,Food,53.31,Indoor,Good
-S08_T02_004.wav,S08,F,Sunda,Food,47.93,Indoor,Good
-S08_T02_005.wav,S08,F,Sunda,Food,52.38,Indoor,Good
-S08_T03_001.wav,S08,F,Sunda,Travel,52.57,Indoor,Good
-S08_T03_002.wav,S08,F,Sunda,Travel,44.77,Indoor,Good
-S08_T03_003.wav,S08,F,Sunda,Travel,50.90,Indoor,Good
-S08_T03_004.wav,S08,F,Sunda,Travel,52.94,Indoor,Good
-S08_T03_005.wav,S08,F,Sunda,Travel,52.94,Indoor,Good
-S09_T01_001.wav,S09,M,Sunda (Non native speaker),Hobby,58.99,Indoor,Good
-S09_T01_002.wav,S09,M,Sunda (Non native speaker),Hobby,58.62,Indoor,Good
-S09_T01_003.wav,S09,M,Sunda (Non native speaker),Hobby,53.27,Indoor,Good
-S09_T01_004.wav,S09,M,Sunda (Non native speaker),Hobby,56.19,Indoor,Good
-S09_T02_001.wav,S09,M,Sunda (Non native speaker),Food,50.73,Indoor,Good
-S09_T02_002.wav,S09,M,Sunda (Non native speaker),Food,52.12,Indoor,Good
-S09_T02_003.wav,S09,M,Sunda (Non native speaker),Food,60.29,Indoor,Good
-S09_T02_004.wav,S09,M,Sunda (Non native speaker),Food,60.12,Indoor,Good
-S09_T03_001.wav,S09,M,Sunda (Non native speaker),Travel,59.09,Indoor,Good
-S09_T03_002.wav,S09,M,Sunda (Non native speaker),Travel,53.03,Indoor,Good
-S09_T03_003.wav,S09,M,Sunda (Non native speaker),Travel,51.26,Indoor,Good
-S09_T03_004.wav,S09,M,Sunda (Non native speaker),Travel,66.77,Indoor,Good
-S10_T01_001.wav,S10,F,Sunda (Native Speaker),Hobby,92.92,Indoor,Good
-S10_T01_002.wav,S10,F,Sunda (Native Speaker),Hobby,87.74,Indoor,Good
-S10_T01_003.wav,S10,F,Sunda (Native Speaker),Hobby,68.76,Indoor,Good
-S10_T02_001.wav,S10,F,Sunda (Native Speaker),Food,63.20,Indoor,Good
-S10_T02_002.wav,S10,F,Sunda (Native Speaker),Food,86.34,Indoor,Good
-S10_T02_003.wav,S10,F,Sunda (Native Speaker),Food,60.20,Indoor,Good
-S10_T03_001.wav,S10,F,Sunda (Native Speaker),Travel,72.40,Indoor,Good
-S10_T03_002.wav,S10,F,Sunda (Native Speaker),Travel,75.56,Indoor,Good
-S10_T03_003.wav,S10,F,Sunda (Native Speaker),Travel,64.14,Indoor,Good
+File,Speaker,Gender,Topic,Duration,Environment,Quality
+S03_T01_001.wav,S03,M,Food,22.3,Indoor,Good
+S03_T01_002.wav,S03,M,Food,32.5,Indoor,Good
+S03_T01_003.wav,S03,M,Food,28.5,Indoor,Good
+S03_T01_004.wav,S03,M,Food,23.2,Indoor,Good
+S03_T02_001.wav,S03,M,Travel,54.5,Indoor,Good
+S03_T02_002.wav,S03,M,Travel,42.0,Indoor,Good
+S03_T02_003.wav,S03,M,Travel,50.7,Indoor,Good
+S03_T02_004.wav,S03,M,Travel,51.4,Indoor,Good
+S03_T02_005.wav,S03,M,Travel,26.0,Indoor,Good
+S03_T02_006.wav,S03,M,Travel,24.3,Indoor,Good
+S03_T03_001.wav,S03,M,Hobby,37.1,Indoor,Good
+S03_T03_002.wav,S03,M,Hobby,39.1,Indoor,Good
+S03_T03_003.wav,S03,M,Hobby,47.3,Indoor,Good
+S03_T03_004.wav,S03,M,Hobby,27.5,Indoor,Good
+S04_T01_001.wav,S04,F,Food,14.6,Indoor,Good
+S04_T01_002.wav,S04,F,Food,38.6,Indoor,Good
+S04_T01_003.wav,S04,F,Food,31.5,Indoor,Good
+S04_T01_004.wav,S04,F,Food,30.9,Indoor,Good
+S04_T01_005.wav,S04,F,Food,46.0,Indoor,Good
+S04_T02_001.wav,S04,F,Travel,37.8,Indoor,Good
+S04_T02_002.wav,S04,F,Travel,37.3,Indoor,Good
+S04_T02_003.wav,S04,F,Travel,52.5,Indoor,Good
+S04_T02_004.wav,S04,F,Travel,35.8,Indoor,Good
+S04_T02_005.wav,S04,F,Travel,47.0,Indoor,Good
+S04_T03_001.wav,S04,F,Hobby,17.3,Indoor,Acceptable
+S04_T03_002.wav,S04,F,Hobby,61.9,Indoor,Good
+S04_T03_003.wav,S04,F,Hobby,34.4,Indoor,Good
+S05_T01_001.wav,S05,M,Food,292.8,Indoor,Good
+S05_T02_001.wav,S05,M,Hobby,251.5,Indoor,Good
+S05_T03_001.wav,S05,M,Travel,252.6,Indoor,Good
+S06_T01_001.wav,S06,F,Food,108.2,Indoor,Good
+S06_T02_001.wav,S06,F,Hobby,86.0,Indoor,Good
+S06_T03_001.wav,S06,F,Travel,107.5,Indoor,Acceptable
+S07_T01_001.wav,S07,M,Hobby,31.40,Indoor,Good
+S07_T01_002.wav,S07,M,Hobby,31.68,Indoor,Good
+S07_T01_003.wav,S07,M,Hobby,26.43,Indoor,Good
+S07_T01_004.wav,S07,M,Hobby,31.42,Indoor,Good
+S07_T01_005.wav,S07,M,Hobby,31.32,Indoor,Good
+S07_T01_006.wav,S07,M,Hobby,31.42,Indoor,Good
+S07_T01_007.wav,S07,M,Hobby,35.52,Indoor,Good
+S07_T01_008.wav,S07,M,Hobby,30.06,Indoor,Good
+S07_T01_009.wav,S07,M,Hobby,26.90,Indoor,Good
+S07_T01_010.wav,S07,M,Hobby,25.73,Indoor,Good
+S07_T01_011.wav,S07,M,Hobby,24.83,Indoor,Good
+S07_T01_012.wav,S07,M,Hobby,21.44,Indoor,Good
+S07_T02_001.wav,S07,M,Food,29.59,Indoor,Good
+S07_T02_002.wav,S07,M,Food,31.79,Indoor,Good
+S07_T02_003.wav,S07,M,Food,26.43,Indoor,Good
+S07_T02_004.wav,S07,M,Food,25.34,Indoor,Good
+S07_T02_005.wav,S07,M,Food,32.13,Indoor,Good
+S07_T02_006.wav,S07,M,Food,24.75,Indoor,Good
+S07_T02_007.wav,S07,M,Food,21.55,Indoor,Good
+S07_T02_008.wav,S07,M,Food,25.66,Indoor,Good
+S07_T02_009.wav,S07,M,Food,26.22,Indoor,Good
+S07_T02_010.wav,S07,M,Food,27.61,Indoor,Good
+S07_T02_011.wav,S07,M,Food,24.32,Indoor,Good
+S07_T02_012.wav,S07,M,Food,27.31,Indoor,Good
+S07_T03_001.wav,S07,M,Travel,24.98,Indoor,Good
+S07_T03_002.wav,S07,M,Travel,27.86,Indoor,Good
+S07_T03_003.wav,S07,M,Travel,22.23,Indoor,Good
+S07_T03_004.wav,S07,M,Travel,24.43,Indoor,Good
+S07_T03_005.wav,S07,M,Travel,20.05,Indoor,Good
+S07_T03_006.wav,S07,M,Travel,19.65,Indoor,Good
+S07_T03_007.wav,S07,M,Travel,22.74,Indoor,Good
+S07_T03_008.wav,S07,M,Travel,18.84,Indoor,Good
+S07_T03_009.wav,S07,M,Travel,19.63,Indoor,Good
+S07_T03_010.wav,S07,M,Travel,17.37,Indoor,Good
+S07_T03_011.wav,S07,M,Travel,24.81,Indoor,Good
+S07_T03_012.wav,S07,M,Travel,26.50,Indoor,Good
+S07_T03_013.wav,S07,M,Travel,23.89,Indoor,Good
+S08_T01_001.wav,S08,F,Hobby,38.08,Indoor,Good
+S08_T01_002.wav,S08,F,Hobby,40.87,Indoor,Good
+S08_T01_003.wav,S08,F,Hobby,43.47,Indoor,Good
+S08_T01_004.wav,S08,F,Hobby,47.37,Indoor,Good
+S08_T01_005.wav,S08,F,Hobby,49.41,Indoor,Good
+S08_T02_001.wav,S08,F,Food,53.68,Indoor,Good
+S08_T02_002.wav,S08,F,Food,41.24,Indoor,Good
+S08_T02_003.wav,S08,F,Food,53.31,Indoor,Good
+S08_T02_004.wav,S08,F,Food,47.93,Indoor,Good
+S08_T02_005.wav,S08,F,Food,52.38,Indoor,Good
+S08_T03_001.wav,S08,F,Travel,52.57,Indoor,Good
+S08_T03_002.wav,S08,F,Travel,44.77,Indoor,Good
+S08_T03_003.wav,S08,F,Travel,50.90,Indoor,Good
+S08_T03_004.wav,S08,F,Travel,52.94,Indoor,Good
+S08_T03_005.wav,S08,F,Travel,52.94,Indoor,Good
+S09_T01_001.wav,S09,M,Hobby,58.99,Indoor,Good
+S09_T01_002.wav,S09,M,Hobby,58.62,Indoor,Good
+S09_T01_003.wav,S09,M,Hobby,53.27,Indoor,Good
+S09_T01_004.wav,S09,M,Hobby,56.19,Indoor,Good
+S09_T02_001.wav,S09,M,Food,50.73,Indoor,Good
+S09_T02_002.wav,S09,M,Food,52.12,Indoor,Good
+S09_T02_003.wav,S09,M,Food,60.29,Indoor,Good
+S09_T02_004.wav,S09,M,Food,60.12,Indoor,Good
+S09_T03_001.wav,S09,M,Travel,59.09,Indoor,Good
+S09_T03_002.wav,S09,M,Travel,53.03,Indoor,Good
+S09_T03_003.wav,S09,M,Travel,51.26,Indoor,Good
+S09_T03_004.wav,S09,M,Travel,66.77,Indoor,Good
+S10_T01_001.wav,S10,F,Hobby,92.92,Indoor,Good
+S10_T01_002.wav,S10,F,Hobby,87.74,Indoor,Good
+S10_T01_003.wav,S10,F,Hobby,68.76,Indoor,Good
+S10_T02_001.wav,S10,F,Food,63.20,Indoor,Good
+S10_T02_002.wav,S10,F,Food,86.34,Indoor,Good
+S10_T02_003.wav,S10,F,Food,60.20,Indoor,Good
+S10_T03_001.wav,S10,F,Travel,72.40,Indoor,Good
+S10_T03_002.wav,S10,F,Travel,75.56,Indoor,Good
+S10_T03_003.wav,S10,F,Travel,64.14,Indoor,Good
