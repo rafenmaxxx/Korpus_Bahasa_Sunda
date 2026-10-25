@@ -1,1 +1,0 @@
-# Korpus_Bahasa_Sunda
